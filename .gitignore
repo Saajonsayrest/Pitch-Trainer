@@ -19,6 +19,17 @@ GoogleService-Info.plist
 *.aab
 *.ipa
 
+# Firebase: every clone uses its own project.
+firebase_options.dart
+firebase.json
+.firebaserc
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+serviceAccount*.json
+*-adminsdk-*.json
+
 # Private work notes.
 /.ai-brain/
 
